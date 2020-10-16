@@ -10,3 +10,4 @@ Cargo.lock
 **/*.rs.bk
 variables/.idea
 variables/target
+**/target/
